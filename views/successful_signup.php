@@ -1,0 +1,1 @@
+<h1>Welcome, you've been successfully signed up in the system. You can now log In.</h1>

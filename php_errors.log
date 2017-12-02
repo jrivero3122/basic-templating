@@ -1,0 +1,6 @@
+[02-Dec-2017 16:53:12 UTC] PHP Warning:  require_once(__ROOT__/controllers/db_connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controllers/User_signup.php on line 3
+[02-Dec-2017 16:53:12 UTC] PHP Stack trace:
+[02-Dec-2017 16:53:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/controllers/User_signup.php:0
+[02-Dec-2017 16:53:12 UTC] PHP Fatal error:  require_once(): Failed opening required '__ROOT__/controllers/db_connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controllers/User_signup.php on line 3
+[02-Dec-2017 16:53:12 UTC] PHP Stack trace:
+[02-Dec-2017 16:53:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/controllers/User_signup.php:0
